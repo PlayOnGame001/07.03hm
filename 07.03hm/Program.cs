@@ -37,8 +37,8 @@ namespace _07._03hm
                 new Zavod("Nissan", 1933, "car", "Mackota Utida", "Ikogama", 132),
                 new Zavod("hyundai", 1967, "car", "jung joo-young", "Seul", 90),
                 new Zavod("Adidas", 1996, "clothes", "Adolf Dassler", "German", 12),
-                new Zavod("Glovo", 2014, "food", "Jon Killy", "London", 200),
-                new Zavod("Bla-Bla-car", 2006, "travel", "Polly Mall", "Los Angeles", 69)
+                new Zavod("Glovo", 2014, "food", "Jylleck", "Ukraine", 200),
+                new Zavod("Bla-Bla-car", 2006, "travel", "Mark Kartman", "Los Angeles", 69)
             };
 
             #region Информация об о всех заводах
